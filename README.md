@@ -1,0 +1,2 @@
+# Predictive_Succession_Planning_Data_Driven_Replacement_for_Harry_Kane
+An automated Python scouting pipeline using FBref data to isolate elite under-25 successors for Harry Kane. It applies linear regression and style quadrant modeling (xG vs xA) to filter global stars, delivering a balanced risk-reward transfer audit that contrasts premium targets (Sesko) against high-value buy-low assets (Gimenez).
