@@ -40,7 +40,7 @@ Based on our final data output, a two-pronged transfer strategy is recommended t
 ### 📌 TARGET OPTION B: Santiago Giménez (25yo | AC Milan)
 *   **Statistical Reality:** High xG/90 (~0.55) with elite spatial tracking and structural chance generation.
 *   **Financial Profile:** Low-cost / High-value **"Buy-Low"** arbitrage opportunity.
-*   **Scout Verdict:** A highly calculated risk-reward target. Giménez's recent major ankle injury (November 2025) and subsequent adaptational goal-drought at Milan have artificially deflated his market valuation. Traditional scouts are dismissing him based on real-goal output. However, our FBref data verifies that his fundamental positioning capabilities remain fully intact. If physical medical clearance is vetted, he offers an elite-level sahte 9 capability at a massive market discount.
+*   **Scout Verdict:** A highly calculated risk-reward target. Giménez's recent major ankle injury (November 2025) and subsequent adaptational goal-drought at Milan have artificially deflated his market valuation. Traditional scouts are dismissing him based on real-goal output. However, our FBref data verifies that his fundamental positioning capabilities remain fully intact. If physical medical clearance is vetted, he offers an elite-level false 9 capability at a massive market discount. However, he is a “classic center forward” with “false nine” potential.
 
 > 💡 **Strategic Summary:** 
 > * For guaranteed, immediate elite output: Invest heavily in **Benjamin Šeško**.
